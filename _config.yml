@@ -2,7 +2,7 @@
 # Values for this workshop - EDIT THIS SECTION.
 #--------------------------------------------------------------------------------
 workshop_repo   : "http://github.com/NoddyMaree/Pirates_are_us"
-workshop_site   : "http://NoddyMaree.github.io/2089-01-02Secret"
+workshop_site   : "http://nmaree.github.io/2089-01-02_Secret"
 #--------------------------------------------------------------------------------
 # Standard Data Carpentry settings - should not need to be modified.
 #--------------------------------------------------------------------------------
